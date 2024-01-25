@@ -15,22 +15,22 @@ One great way to seize this opportunity is to enroll in a coding bootcamp. This 
 
 The projects in our list focus on different skills needed to build out a well-rounded Java skill set; progressing in difficulty as the list continues.
 
-# Projects
+## Projects
 1. asdf
 2. asdf
 3. asdf
 4. asf
 5. asf
 
-# 1. asdf
+## 1. asdf
 
-# 2. asdf
+## 2. asdf
 
-# 3. asdf
+## 3. asdf
 
-# 4. asf
+## 4. asf
 
-# 5. asf
+## 5. asf
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
