@@ -31,3 +31,8 @@ The projects in our list focus on different skills needed to build out a well-ro
 # 4. asf
 
 # 5. asf
+
+## License
+![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
+
+To the extent possible under law, Ajita Gupta has waived all copyright and related or neighboring rights to this work.
