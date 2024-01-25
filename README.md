@@ -1,2 +1,2 @@
-# java-projects
+# Learning Java with Projects
 coming soon!
