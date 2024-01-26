@@ -16,7 +16,7 @@ Learning to code in Java can help you get started in a variety of applicable fie
 
 One great way to seize this opportunity is to enroll in a **coding bootcamp**. This can provide you with a broad set of coding-related skills in a relatively short time frame, offering an introduction to crucial skills through hands-on, project-based learning. Bootcamps are also accessible to a variety of prior experience levels — everyone from career upskillers to complete beginners.
 
-When learning to code, it's important to have help available when you need it. We therefore pick an excellent and very experienced instructor for learning Core Java while simultaneously honing our time management and accountability skills.
+When learning to code, it's important to have help available when you need it. We therefore pick an excellent and very experienced corporate instructor for learning Core Java while simultaneously honing our time management and accountability skills.
 
 The projects in our list are weekly assignments focusing on different skills needed to build out a well-rounded Java skill set; progressing in difficulty as the list continues.
 
