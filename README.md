@@ -21,7 +21,7 @@ When learning to code, it's important to have help available when you need it. W
 ## Before getting started
 
 Now, before we immerse ourselves into writing code here's a few things you should know about Java:
-Java is a portable, secure, robust, compiled, object-oriented, and platform-independent programming language. This means it can run on any machine, regardless of what operating system is used.
+**Java is a portable, secure, robust, compiled, object-oriented, and platform-independent programming language.** This means it can run on any machine, regardless of what operating system is used.
 
 JDK stands for Java Development Kit. It refers to all the standard libraries used.
 
