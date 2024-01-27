@@ -18,6 +18,19 @@ One great way to seize this opportunity is to enroll in a **coding bootcamp**. T
 
 When learning to code, it's important to have help available when you need it. We therefore pick an excellent and very experienced corporate instructor for learning Core Java while simultaneously honing our time management and accountability skills.
 
+## Before getting started
+
+Now, before we immerse ourselves into writing code here's a few things you should know about Java:
+Java is a portable, secure, robust, compiled, object-oriented, and platform-independent programming language. This means it can run on any machine, regardless of what operating system is used.
+
+JDK stands for Java Development Kit. It refers to all the standard libraries used.
+
+JVM stands for Java Virtual Machine. This is the compiler used to convert native Java code into machine-level bytecode.
+
+JRE stands for Java Runtime Environment. The JRE manages the software and runs the Java program.
+
+For our projects we need [Java](https://www.java.com/download/ie_manual.jsp) and once this is in your system, we'll need an editor, [Eclipse](https://www.eclipse.org/downloads/).
+
 The projects in our list are weekly assignments focusing on different skills needed to build out a well-rounded Java skill set; progressing in difficulty as the list continues.
 
 ## Projects
