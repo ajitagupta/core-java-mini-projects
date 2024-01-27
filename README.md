@@ -23,7 +23,7 @@ When learning to code, it's important to have help available when you need it. W
 Now, before we immerse ourselves into writing code here's a few things you should know about Java:
 **Java is a portable, secure, robust, compiled, object-oriented, and platform-independent programming language.** This means it can run on any machine, regardless of what operating system is used.
 
-JDK stands for Java Development Kit. It refers to all the standard libraries used.
+JDK stands for Java Development Kit. It refers to all the standard libraries used in programming the software.
 
 JVM stands for Java Virtual Machine. This is the compiler used to convert native Java code into machine-level bytecode.
 
