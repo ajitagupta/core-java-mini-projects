@@ -7,9 +7,9 @@ Programming is like riding a bike; you can read about how to do it all day, but 
 
 Java is a great first programming language because it has a broad feature set and is used in a variety of applications, including desktop applications, Android apps, and iOS app development. Java is also in high demand, with [40 percent of respondents in Stack Overflow’s 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) claiming to use the language.
 
-![Java applications](https://i.ibb.co/xCbwg3y/Uses-of-Java.png "Java applications")
+![Java applications](https://i.ibb.co/nb0By2M/java.webp "Java applications")
 
-Learning to code in Java can help you get started in a variety of applicable fields, such as engineering and web development. Many of these opportunities are both lucrative and promising in their long-term job security. For example, software developers are projected to see 22 percent job growth by 2029, which is much higher than the average job growth projected for most fields.
+Learning to code in Java can help you get started in a variety of applicable fields, as depicted in the picture. Many of these opportunities are both lucrative and promising in their long-term job security. For example, software developers are projected to see 22 percent job growth by 2029, which is much higher than the average job growth projected for most fields.
 
 
 ## Yet another bootcamp
