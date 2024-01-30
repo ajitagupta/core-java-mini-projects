@@ -54,7 +54,7 @@ The projects in our list are weekly assignments focusing on different skills in 
 5. asf
 
 ## 1. Introduction
-In our first two classes we cover the concepts class, primitive data types, Wrapper classes, arithmetics, variable types (static, local, instance) and the Scanner class.
+In our first two classes we cover the concepts class, primitive data types, Wrapper classes, arithmetics, variable types (static, local, instance), and the Scanner class.
 
 `Book.java` is the corresponding assignment. 
 
