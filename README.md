@@ -6,6 +6,7 @@
 Programming is like riding a bike; you can read about how to do it all day, but the best way to get started is to practice.
 
 Java is a great first programming language because it has a broad feature set and is used in a variety of applications, including desktop applications, Android apps, and iOS app development. Java is also in high demand, with [40 percent of respondents in Stack Overflow’s 2020 Developer Survey](https://insights.stackoverflow.com/survey/2020#most-popular-technologies) claiming to use the language.
+<br>
 
 ![Java applications](https://i.ibb.co/chYhgGj/uses-of-Java.jpg "Java applications")
 
