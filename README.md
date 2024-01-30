@@ -9,6 +9,8 @@ Java is a great first programming language because it has a broad feature set an
 
 ![Java applications](https://i.ibb.co/chYhgGj/uses-of-Java.jpg "Java applications")
 
+Source: TatvaSoft
+
 Learning to code in Java can help you get started in a variety of applicable fields, as depicted in the picture. Many of these opportunities are both lucrative and promising in their long-term job security. For example, software developers are projected to see 22 percent job growth by 2029, which is much higher than the average job growth projected for most fields.
 
 
@@ -23,17 +25,23 @@ When learning to code, it's important to have help available when you need it. W
 Now, before we immerse ourselves into writing code here's a few things you should know about Java:
 **Java is a portable, secure, robust, compiled, object-oriented, and platform-independent programming language.** This means it can run on any machine, regardless of what operating system is used.
 
-JDK stands for Java Development Kit. It refers to all the standard libraries used in programming the software.
+JVM stands for Java Virtual Machine. It is our smallest unit. When you run the Java program, Java compiler first compiles your Java code to bytecode. Then, the JVM translates bytecode into native machine code (set of instructions that a computer's CPU executes directly).
 
-JVM stands for Java Virtual Machine. This is the compiler used to convert native Java code into machine-level bytecode.
+JRE (Java Runtime Environment) is a software package that provides Java class libraries, Java Virtual Machine (JVM), and other components that are required to run Java applications. If you need to run Java programs, but not develop them, JRE is what you need.
 
-JRE stands for Java Runtime Environment. The JRE manages the software and runs the Java program.
+JDK stands for Java Development Kit. It refers to all the standard libraries used in programming the software and a number of development tools (compilers, JavaDoc, Java Debugger, etc). When you download JDK, JRE is also downloaded with it.
+
+![JDK-JRE-JVM](https://i.ibb.co/MZp6Dj8/JDK-JRE-JVM.png "JDK-JRE-JVM")
+
+Source: GeeksforGeeks
+
+## Projects
 
 For our projects we need [Java](https://www.java.com/download/ie_manual.jsp) and once this is in your system, we'll need an editor, [Eclipse](https://www.eclipse.org/downloads/).
 
 The projects in our list are weekly assignments focusing on different skills in **Core Java** needed to build out a well-rounded Java skill set; progressing in difficulty as the list continues.
 
-## Projects
+
 1. asdf
 2. asdf
 3. asdf
