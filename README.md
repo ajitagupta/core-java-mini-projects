@@ -47,13 +47,18 @@ For our projects we need [Java](https://www.java.com/download/ie_manual.jsp) and
 The projects in our list are weekly assignments focusing on different skills in **Core Java** needed to build out a well-rounded Java skill set; progressing in difficulty as the list continues.
 
 
-1. asdf
+1. Introduction
 2. asdf
 3. asdf
 4. asf
 5. asf
 
-## 1. asdf
+## 1. Introduction
+In our first two classes we cover the concepts class, primitive data types, Wrapper classes, arithmetics, variable types (static, local, instance) and the Scanner class.
+
+`Book.java` is the corresponding assignment. 
+
+Here, we create a `Book` class, which asks the user for three inputs: `book name, author name, publish status`, and finally prints the values sequentially.
 
 ## 2. asdf
 
