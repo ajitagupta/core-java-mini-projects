@@ -26,10 +26,13 @@ When learning to code, it's important to have help available when you need it. W
 Now, before we immerse ourselves into writing code here's a few things you should know about Java:
 **Java is a portable, secure, robust, compiled, object-oriented, and platform-independent programming language.** This means it can run on any machine, regardless of what operating system is used.
 
+### Java Virtual Machine
 JVM stands for Java Virtual Machine. It is our smallest unit. When you run the Java program, Java compiler first compiles your Java code to bytecode. Then, the JVM translates bytecode into native machine code (set of instructions that a computer's CPU executes directly).
 
+### Java Runtime Environment
 JRE (Java Runtime Environment) is a software package that provides Java class libraries, Java Virtual Machine (JVM), and other components that are required to run Java applications. If you need to run Java programs, but not develop them, JRE is what you need.
 
+### Java Development Kit
 JDK stands for Java Development Kit. It refers to all the standard libraries used in programming the software and a number of development tools (compilers, JavaDoc, Java Debugger, etc). When you download JDK, JRE is also downloaded with it.  
 <br/>
 
