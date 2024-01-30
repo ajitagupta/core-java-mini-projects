@@ -1,6 +1,6 @@
 # Learning Java with Projects
 
-![Static Badge](https://img.shields.io/badge/Java-Bootcamp-blue)
+![Static Badge](https://img.shields.io/badge/Core%20Java-Bootcamp-blue)
 
 
 Programming is like riding a bike; you can read about how to do it all day, but the best way to get started is to practice.
