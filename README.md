@@ -30,7 +30,7 @@ JVM stands for Java Virtual Machine. It is our smallest unit. When you run the J
 
 JRE (Java Runtime Environment) is a software package that provides Java class libraries, Java Virtual Machine (JVM), and other components that are required to run Java applications. If you need to run Java programs, but not develop them, JRE is what you need.
 
-JDK stands for Java Development Kit. It refers to all the standard libraries used in programming the software and a number of development tools (compilers, JavaDoc, Java Debugger, etc). When you download JDK, JRE is also downloaded with it.
+JDK stands for Java Development Kit. It refers to all the standard libraries used in programming the software and a number of development tools (compilers, JavaDoc, Java Debugger, etc). When you download JDK, JRE is also downloaded with it.  
 <br/>
 
 ![JDK-JRE-JVM](https://i.ibb.co/MZp6Dj8/JDK-JRE-JVM.png "JDK-JRE-JVM")
