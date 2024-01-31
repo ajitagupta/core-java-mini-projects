@@ -48,7 +48,7 @@ The projects in our list are weekly assignments focusing on different skills in 
 
 
 1. [Introduction](https://github.com/ajitagupta/java-projects/blob/main/Book.java)
-2. asdf
+2. [Looping](https://github.com/ajitagupta/java-projects/blob/main/Employee.java)
 3. asdf
 4. asf
 5. asf
@@ -62,7 +62,17 @@ Here, we create a `Book` class, which asks the user for three inputs: `book name
 
 ![Book Class](https://i.ibb.co/JrTWX3S/Book-Class.png "Book Class")
 
-## 2. asdf
+
+## 2. Looping
+
+Looping consists of a) decision-making constructs (if, ladder if else) since they make logical decisions (true/false) based on the conditions provided, and b) conditional statements, which are the executable block of code (or branch to a specific code) dependent on certain conditions (while, do_while, switch).
+
+`Employee.java` is the corresponding assignment. 
+
+Here, the user is supposed to enter his name, daily salary, and number of office attending-days. His monthly salary is calculated and used to justify to him his job designation.
+
+![Employee Class](https://i.ibb.co/KbpKhL4/Employee-Class.png "Employee Class")
+
 
 ## 3. asdf
 
