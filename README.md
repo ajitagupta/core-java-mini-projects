@@ -54,11 +54,13 @@ The projects in our list are weekly assignments focusing on different skills in 
 5. asf
 
 ## 1. Introduction
-In our first two classes we cover the concepts class, data types, Wrapper classes, variable types (static, local, instance), and the Scanner class.
+In our first two classes we cover the concepts class, data types, Wrapper classes, variable types (static, local, instance), arithmetics, and the Scanner class.
 
 `Book.java` is the corresponding assignment. 
 
 Here, we create a `Book` class, which asks the user for three inputs: `book name, author name, publish status`, and then prints those values sequentially to the console.
+
+![Book Class](https://i.ibb.co/JrTWX3S/Book-Class.png "Book Class")
 
 ## 2. asdf
 
