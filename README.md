@@ -58,7 +58,7 @@ In our first two classes we cover the concepts class, data types, Wrapper classe
 
 `Book.java` is the corresponding assignment. 
 
-Here, we create a `Book` class, which asks the user for three inputs: `book name, author name, publish status`, and then prints those values sequentially.
+Here, we create a `Book` class, which asks the user for three inputs: `book name, author name, publish status`, and then prints those values sequentially to the console.
 
 ## 2. asdf
 
