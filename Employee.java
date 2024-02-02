@@ -18,18 +18,17 @@ public class Employee {
 		int attendance = sc.nextInt();
 
 		int salary = salPerDay * attendance;
-		System.out.println(salary);
 
 		if (salary >= 10000) {
-			System.out.print("Hi " + name + ", your designation is Team Leader");
-		} else if (8000 >= salary && salary < 10000) {
-			System.out.print("Hi " + name + ", your designation is Senior Developer");
-		} else if (6000 >= salary && salary < 8000) {
-			System.out.print("Hi " + name + ", your designation is Junior Developer");
-		} else if (4000 >= salary && salary < 6000) {
-			System.out.print("Hi " + name + ", your designation is Trainee");
+			System.out.println("Hi " + name + ", your designation is Team Leader");
+		} else if (8000 <= salary && salary < 10000) {
+			System.out.println("Hi " + name + ", your designation is Senior Developer");
+		} else if (6000 <= salary && salary < 8000) {
+			System.out.println("Hi " + name + ", your designation is Junior Developer");
+		} else if (4000 <= salary && salary < 6000) {
+			System.out.println("Hi " + name + ", your designation is Trainee");
 		} else {
-			System.out.print("Hi " + name + ", your designation is Clerk");
+			System.out.println("Hi " + name + ", your designation is Clerk");
 		}
 
 	}
