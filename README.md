@@ -69,7 +69,7 @@ Looping consists of a) decision-making constructs (if, ladder if else, switch) s
 
 `Employee.java` is the corresponding assignment. 
 
-Here, the user is supposed to enter his name, daily salary, and number of office attending-days. His monthly salary is calculated and used to justify to him his job designation.
+Here, the user is supposed to enter his name, daily salary, and number of office attending-days. His annual salary is calculated and used to justify to him his job designation.
 
 ![Employee Class](https://i.ibb.co/qxgPh96/Employee-Class.png "Employee Class")
 
