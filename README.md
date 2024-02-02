@@ -65,7 +65,7 @@ Here, we create a `Book` class, which asks the user for three inputs: `book name
 
 ## 2. Looping
 
-Looping consists of a) decision-making constructs (if, ladder if else) since they make logical decisions (true/false) based on the conditions provided, and b) conditional statements, which are the executable block of code (or branch to a specific code) dependent on certain conditions (while, do_while, switch).
+Looping consists of a) decision-making constructs (if, ladder if else, switch) since they make logical decisions (true/false) based on the conditions provided, and b) conditional statements, which are the executable block of code (or branch to a specific code) dependent on certain conditions (while, do_while, for).
 
 `Employee.java` is the corresponding assignment. 
 
