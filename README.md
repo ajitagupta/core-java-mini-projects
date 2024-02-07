@@ -47,9 +47,9 @@ For our projects we need [Java](https://www.java.com/download/ie_manual.jsp) and
 The projects in our list are weekly assignments focusing on different skills in **Core Java** needed to build out a well-rounded Java skill set; progressing in difficulty as the list continues.
 
 
-1. [Introduction](https://github.com/ajitagupta/java-projects/blob/main/Book.java)
-2. [Looping](https://github.com/ajitagupta/java-projects/blob/main/Employee.java)
-3. asdf
+1. [Introduction](https://github.com/ajitagupta/core-java-projects/blob/main/Book.java)
+2. [Looping](https://github.com/ajitagupta/core-java-projects/blob/main/Employee.java)
+3. [Arrays and Strings](https://github.com/ajitagupta/core-java-projects/blob/main/VowelsConstants.java)
 4. asf
 5. asf
 
