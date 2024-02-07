@@ -77,7 +77,9 @@ Here, the user is supposed to enter his name, daily salary, and number of office
 
 In this class we tackle a common interview question: Counting the number of vowels and constants in a string array specified by the user.
 
-`VowelsConstants.java` contains the solution. 
+`VowelsConstants.java` contains the solution and here is a demo output:
+
+![VowelsConstants Class](https://i.ibb.co/4dTgNrb/Vowel-Constants-Class.png "VowelsConstants Class")
 
 
 ## 4. asf
