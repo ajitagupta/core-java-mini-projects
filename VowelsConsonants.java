@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Problem: take one string array and calculate count how many vowels are and constants 
  */
 
-public class VowelsConstants {
+public class VowelsConsonants {
 	
 	
 	public static void main(String[] args) {
