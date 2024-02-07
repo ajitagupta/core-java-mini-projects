@@ -49,7 +49,7 @@ The projects in our list are weekly assignments focusing on different skills in 
 
 1. [Introduction](https://github.com/ajitagupta/core-java-projects/blob/main/Book.java)
 2. [Looping](https://github.com/ajitagupta/core-java-projects/blob/main/Employee.java)
-3. [Arrays and Strings](https://github.com/ajitagupta/core-java-projects/blob/main/VowelsConstants.java)
+3. [Arrays and Strings](https://github.com/ajitagupta/core-java-projects/blob/main/VowelsConsonants.java)
 4. asf
 5. asf
 
@@ -75,11 +75,11 @@ Here, the user is supposed to enter his name, daily salary, and number of office
 
 ## 3. Arrays and Strings
 
-In this class we tackle a common interview question: Counting the number of vowels and constants in a string array specified by the user.
+In this class we tackle a common interview question: Counting the number of vowels and consonants in a string array specified by the user.
 
-`VowelsConstants.java` contains the solution and here is a demo output:
+`VowelsConsonants.java` contains the solution and here is a demo output:
 
-![VowelsConstants Class](https://i.ibb.co/4dTgNrb/Vowel-Constants-Class.png "VowelsConstants Class")
+![VowelsConsonants Class](https://i.ibb.co/4dTgNrb/Vowel-Constants-Class.png "VowelsConsonants Class")
 
 
 ## 4. asf
