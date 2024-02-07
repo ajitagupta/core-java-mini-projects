@@ -73,7 +73,12 @@ Here, the user is supposed to enter his name, daily salary, and number of office
 
 ![Employee Class](https://i.ibb.co/Ch9rpCm/Employee-Class.png "Employee Class")
 
-## 3. asdf
+## 3. Arrays and Strings
+
+In this class we tackle a common interview question: Counting the number of vowels and constants in a string array specified by the user.
+
+`VowelsConstants.java` contains the solution. 
+
 
 ## 4. asf
 
