@@ -82,7 +82,13 @@ In this class we tackle a common interview question: Counting the number of vowe
 ![VowelsConsonants Class](https://i.ibb.co/4dTgNrb/Vowel-Constants-Class.png "VowelsConsonants Class")
 
 
-## 4. asf
+## 4. Object-oriented programming
+
+The purpose of OOP is to improve code readability and reusability. Data is accessed and controlled. Code is modified and maintained. All this is easier with object-oriented programming.
+
+The four pillars of OOP are a) inheritance, b) polymorphism, c) encapsulation, and d) abstraction.
+
+A class stands at the heart of OOP. It is a blueprint of an object, and an object is an instance or a copy of a class. An object is a runtime entity with an identity, state, and behavior - all described by methods and variables. It is initialized using the new keyword.
 
 ## 5. asf
 
