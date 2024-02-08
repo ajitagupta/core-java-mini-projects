@@ -44,7 +44,7 @@ Source: GeeksforGeeks
 
 For our projects we need [Java](https://www.java.com/download/ie_manual.jsp) and once this is in your system, we'll need an editor, [Eclipse](https://www.eclipse.org/downloads/).
 
-The projects in our list are weekly assignments focusing on different skills in **Core Java** needed to build out a well-rounded Java skill set; progressing in difficulty as the list continues.
+The projects in our list are assignments focusing on different skills in **Core Java** needed to build out a well-rounded Java skill set; progressing in difficulty as the list continues.
 
 
 1. [Introduction](https://github.com/ajitagupta/core-java-projects/blob/main/Book.java)
