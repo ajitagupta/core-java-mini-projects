@@ -26,6 +26,9 @@ When learning to code, it's important to have help available when you need it. W
 Now, before we immerse ourselves into writing code here's a few things you should know about Java:
 **Java is a portable, secure, robust, compiled, object-oriented, and platform-independent programming language.** This means it can run on any machine, regardless of what operating system is used.
 
+### What is programming?
+Computer programming refers to the detail or steps of instructions given to a computer in an appropriate computer language, which enable the computer to perform a variety of tasks in sequence. A set of instructions written in a computer language is typically called a program or code.
+
 ### Java Virtual Machine
 JVM stands for Java Virtual Machine. It is our smallest unit. When you run the Java program, Java compiler first compiles your Java code to bytecode. Then, the JVM translates bytecode into native machine code (set of instructions that a computer's CPU executes directly).
 
