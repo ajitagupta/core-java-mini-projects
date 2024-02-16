@@ -95,7 +95,7 @@ A class stands at the heart of OOP. It is a blueprint of an object, and an objec
 
 ### Inheritance
 
-Single- and multi-level inheritance. Class can access properties of another class. First class is called parent/base/superclass, second is called child/derived/subclass. Multiple inheritance not supported.
+Single- and multi-level/chained inheritance. Class can access properties of another class. First class is called parent/base/superclass, second is called child/derived/subclass. Multiple inheritance not supported.
 
 ### Polymorphism
 
