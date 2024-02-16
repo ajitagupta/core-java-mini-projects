@@ -91,11 +91,11 @@ The purpose of OOP is to improve code readability and reusability. Data is acces
 
 The four pillars of OOP are a) inheritance, b) polymorphism, c) encapsulation, and d) abstraction.
 
-A class stands at the heart of OOP. It is a blueprint of an object, and an object is an instance or a copy of a class. An object is also a runtime entity with an identity, state, and behavior - all described by methods and variables. It is initialized using the new keyword.
+A class stands at the heart of OOP. It is a blueprint of an object, and an object is an instance or a copy of a class. An object is also a runtime entity with an identity, state, and behavior - all described by methods and variables. It is initialized using the `new` keyword.
 
 ### Inheritance
 
-Single, multi-level/chained, hierarchical, and hybrid (mix of first 3) inheritance. Class can access properties of another class. First class is called parent-/base-/superclass, second is called child-/derived-/subclass. Multiple inheritance not supported.
+Single, multi-level/chained, hierarchical, and hybrid (mix of first 3) inheritance. Class can access properties of another class. First class is called parent-/base-/superclass, second is called child-/derived-/subclass. Implemented using `extends` keyword. Multiple inheritance not supported.
 
 ### Polymorphism
 
