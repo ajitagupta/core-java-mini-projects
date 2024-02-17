@@ -95,7 +95,8 @@ A class stands at the heart of OOP. It is a blueprint of an object, and an objec
 
 ### Inheritance
 
-Single, multi-level/chained, hierarchical, and hybrid (mix of first 3) inheritance. Class can access properties of another class. First class is called parent-/base-/superclass, second is called child-/derived-/subclass. Implemented using `extends` keyword. Multiple inheritance not supported.
+Single, multi-level/chained, hierarchical, and hybrid (mix of first 3) inheritance. Class can access properties of another class. First class is called parent-/base-/superclass, second is called child-/derived-/subclass. Implemented using `extends` keyword. Multiple inheritance not supported.  
+<br/>
 
 ![Inheritance](https://i.ibb.co/ChxyfNW/inheritance-drawio.png "Inheritance")
 
