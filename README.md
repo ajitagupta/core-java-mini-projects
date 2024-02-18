@@ -53,7 +53,7 @@ The projects in our list are assignments focusing on different skills in **Core 
 1. [Introduction](https://github.com/ajitagupta/core-java-projects/blob/main/Book.java)
 2. [Looping](https://github.com/ajitagupta/core-java-projects/blob/main/Employee.java)
 3. [Arrays and Strings](https://github.com/ajitagupta/core-java-projects/blob/main/VowelsConsonants.java)
-4. [Object-oriented Programming](https://github.com/ajitagupta/core-java-projects/blob/main/BankingApp.java)
+4. [Object-Oriented Programming](https://github.com/ajitagupta/core-java-projects/blob/main/BankingApp.java)
 5. Constructor
 
 ## 1. Introduction
@@ -85,7 +85,7 @@ In this class we tackle a common interview question: Counting the number of vowe
 ![VowelsConsonants Class](https://i.ibb.co/4dTgNrb/Vowel-Constants-Class.png "VowelsConsonants Class")
 
 
-## 4. Object-oriented Programming
+## 4. Object-Oriented Programming
 
 The purpose of OOP is to improve code readability and reusability. Data is accessed and controlled. Code is modified and maintained. All this is easier with object-oriented programming.
 
