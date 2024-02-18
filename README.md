@@ -103,7 +103,10 @@ Single, multi-level/chained, hierarchical, and hybrid (mix of first 3) inheritan
 
 ### Polymorphism
 
+One name, many forms (poly: many, morphism: behavior). One function can have multiple behaviors. Ways: a) function overloading/compile-time overloading: same name, different parameters, b) function overriding / dynamic method dispatch/runtime-/dynamic polymorphism: same name, same parameters (signature) - one reference for all subtypes, same method called on all, type of object being referred at time of call.
+
 ### Encapsulation
+Wrapping and binding of data in single unit. Variables declared in class with `private` keyword. Variables accessed with getters and setters. Methods inside the class.
 
 ### Abstraction
 
