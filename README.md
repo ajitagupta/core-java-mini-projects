@@ -117,6 +117,7 @@ Hiding implementation details of the code and exposing only necessary informatio
 
 Special type of method which is used to initialize/create an object. Rules: 1) constructor and class name should be the same, 2) constructor doesn't contain return type, 3) constructor cannot be abstract, static or final. Types: 1) default, 2) parameterized.
 
+Now let's have a look at a menu-driven banking application: `BankingApp.java`.
 
 
 ## License
