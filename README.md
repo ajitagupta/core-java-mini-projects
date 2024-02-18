@@ -53,8 +53,8 @@ The projects in our list are assignments focusing on different skills in **Core 
 1. [Introduction](https://github.com/ajitagupta/core-java-projects/blob/main/Book.java)
 2. [Looping](https://github.com/ajitagupta/core-java-projects/blob/main/Employee.java)
 3. [Arrays and Strings](https://github.com/ajitagupta/core-java-projects/blob/main/VowelsConsonants.java)
-4. Object-oriented Programming
-5. [Constructor](https://github.com/ajitagupta/core-java-projects/blob/main/BankingApp.java)
+4. [Object-oriented Programming](https://github.com/ajitagupta/core-java-projects/blob/main/BankingApp.java)
+5. Constructor
 
 ## 1. Introduction
 In our first two classes we cover the concepts class, data types, Wrapper classes, variable types (static, local, instance), arithmetics, and the Scanner class.
