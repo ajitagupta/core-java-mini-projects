@@ -119,6 +119,14 @@ Special type of method which is used to initialize/create an object. Rules: 1) c
 
 Now let's have a look at a menu-driven banking application: `BankingApp.java`.
 
+The user must input his bank information. Then, a menu appears:
+
+![BankingApp1](https://i.ibb.co/gV4h78L/Banking-App1.png "BankingApp1")
+
+After picking an option the instruction is carried out until the loop exist (Option 5):
+
+![BankingApp2](https://i.ibb.co/9yr7v2X/Banking-App2.png "BankingApp2")
+
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
