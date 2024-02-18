@@ -85,7 +85,7 @@ In this class we tackle a common interview question: Counting the number of vowe
 ![VowelsConsonants Class](https://i.ibb.co/4dTgNrb/Vowel-Constants-Class.png "VowelsConsonants Class")
 
 
-## 4. Object-oriented programming
+## 4. Object-oriented Programming
 
 The purpose of OOP is to improve code readability and reusability. Data is accessed and controlled. Code is modified and maintained. All this is easier with object-oriented programming.
 
