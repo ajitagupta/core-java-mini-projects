@@ -112,7 +112,12 @@ Wrapping and binding of data in single unit. Variables declared in class with `p
 
 Hiding implementation details of the code and exposing only necessary information to the user (example: ATM machine). Declared using `abstract` keyword. If method is abstract class must also be abstract. Class can't be instantiated, only extended in a child class.
 
-## 5. asf
+
+## 5. Constructor
+
+Special type of method which is used to initialize/create an object. Rules: 1) constructor and class name should be the same, 2) constructor doesn't contain return type, 3) constructor cannot be abstract, static or final. Types: 1) default, 2) parameterized.
+
+
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
