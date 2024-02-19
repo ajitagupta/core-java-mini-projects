@@ -127,8 +127,12 @@ After picking an option the instruction is carried out until the loop exist (Opt
 
 ## 5. Constructor
 
-Special type of method which is used to initialize/create an object. Rules: 1) constructor and class name should be the same, 2) constructor doesn't contain return type, 3) constructor cannot be abstract, static or final. Types: 1) default, 2) parameterized.
+Special type of method which is used to initialize/create an object. Rules: 1) constructor and class name should be the same, 2) constructor doesn't contain return type, 3) constructor cannot be abstract, static or final. Types: 1) default, 2) parameterized. A constructor cannot be overriden, but it can be overloaded.
 
+
+## 6. Abstract Classes and Interfaces
+
+An abstract class must be declared with the abstract keyword. It can have abstract and non-abstract methods. It can't be instantiated. It can have constructors and static or final methods.
 
 
 ## License
