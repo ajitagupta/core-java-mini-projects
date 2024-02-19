@@ -134,8 +134,12 @@ Special type of method which is used to initialize/create an object. Rules: 1) c
 
 An abstract class must be declared with the `abstract` keyword. It can have abstract and non-abstract methods. It can't be instantiated. It can have constructors and static or final methods. If you want to declare a method as abstract the class must also be abstract.
 
-Interfaces are used to achieve multiple inheritance in Java - at a time you can extend multiple classes. An interface object cannot be created. An interface is defined by the `interface` keyword. By default, interface methods are abstract. Class to interface relationship is defined by `implements`. Interface to interface relationship is defined by `extends`.
+Interfaces are used to achieve multiple inheritance in Java - at a time you can extend multiple classes. An interface object cannot be created. An interface is defined by the `interface` keyword. By default, interface methods are abstract. A class to interface relationship is defined by `implements`. An interface to interface relationship is defined by `extends`.
 
+
+## 7. Exceptions
+
+An exception is an error from which can be recovered. An error is an unavoidable runtime situation from which we can't recover. Exceptions can be checked/compile-time and unchecked/runtime exception.
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
