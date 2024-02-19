@@ -132,7 +132,9 @@ Special type of method which is used to initialize/create an object. Rules: 1) c
 
 ## 6. Abstract Classes and Interfaces
 
-An abstract class must be declared with the abstract keyword. It can have abstract and non-abstract methods. It can't be instantiated. It can have constructors and static or final methods.
+An abstract class must be declared with the `abstract` keyword. It can have abstract and non-abstract methods. It can't be instantiated. It can have constructors and static or final methods. If you want to declare a method as abstract the class must also be abstract.
+
+Interfaces are used to achieve multiple inheritance in Java - at a time you can extend multiple classes. An interface object cannot be created. An interface is defined by the `interface` keyword. By default, interface methods are abstract.
 
 
 ## License
