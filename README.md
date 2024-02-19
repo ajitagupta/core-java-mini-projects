@@ -56,6 +56,10 @@ The projects in our list are assignments focusing on different skills in **Core 
 4. [Object-Oriented Programming](https://github.com/ajitagupta/core-java-projects/blob/main/BankingApp.java)
 5. Constructor
 6. [Abstract Classes and Interfaces](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
+7. Exceptions
+8. Multithreading
+9. Collections
+10. Java 8 Features
 
 ## 1. Introduction
 In our first two classes we cover the concepts class, data types, Wrapper classes, variable types (static, local, instance), arithmetics, and the Scanner class.
@@ -146,7 +150,15 @@ An example of the two is provided in `Parent.java`. Here is the output:
 
 An exception is an error from which can be recovered. An error is an unavoidable runtime situation from which we can't recover. Exceptions can be checked/compile-time and unchecked/runtime exception.
 
-To recover from exceptions we can make use of `try-catch`, `throw/throws`, or `finally` blocks. We can handle exceptions with multiple catch-blocks. finally-block code executes at any cost.
+To recover from exceptions we can make use of `try-catch`, `throw/throws`, or `finally` blocks. We can handle exceptions with multiple catch-blocks. The finally-block code executes at any cost.
+
+## 8. Multithreading
+
+## 9. Collections
+
+## 10. Java 8 Features
+
+
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
