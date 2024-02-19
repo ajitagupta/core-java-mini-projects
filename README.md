@@ -55,6 +55,7 @@ The projects in our list are assignments focusing on different skills in **Core 
 3. [Arrays and Strings](https://github.com/ajitagupta/core-java-projects/blob/main/VowelsConsonants.java)
 4. [Object-Oriented Programming](https://github.com/ajitagupta/core-java-projects/blob/main/BankingApp.java)
 5. Constructor
+6. [Abstract Classes and Interfaces](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
 
 ## 1. Introduction
 In our first two classes we cover the concepts class, data types, Wrapper classes, variable types (static, local, instance), arithmetics, and the Scanner class.
@@ -136,10 +137,16 @@ An abstract class must be declared with the `abstract` keyword. It can have abst
 
 Interfaces are used to achieve multiple inheritance in Java - at a time you can extend multiple classes. An interface object cannot be created. An interface is defined by the `interface` keyword. By default, interface methods are abstract. A class to interface relationship is defined by `implements`. An interface to interface relationship is defined by `extends`.
 
+An example of the two is provided in `Parent.java`. Here is the output:
+
+![Abstract Classes & Interfaces](https://i.ibb.co/T8bszB7/Parent-java.png" "Abstract Classes & Interfaces")
+
 
 ## 7. Exceptions
 
 An exception is an error from which can be recovered. An error is an unavoidable runtime situation from which we can't recover. Exceptions can be checked/compile-time and unchecked/runtime exception.
+
+To recover from exceptions we can make use of `try-catch`, `throw/throws`, or `finally` blocks. We can handle exceptions with multiple catch-blocks. finally-block code executes at any cost.
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
