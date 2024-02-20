@@ -14,15 +14,17 @@ public class Student {
 	
 	Student()	{
 		name = "Unknown";
+		System.out.println(name);
 	}
 	
 	Student(String name)	{
 		this.name = name;
+		System.out.println(name);
 	}
 	
 	public static void main(String[] args)	{
-		Student s = new Student("Ajita Gupta");
-		System.out.println(s.name);
+		Student s = new Student();
+		Student s2 = new Student("Ajita Gupta");
 				
 	}
 	
