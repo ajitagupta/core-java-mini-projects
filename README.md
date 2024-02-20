@@ -54,7 +54,7 @@ The projects in our list are assignments focusing on different skills in **Core 
 2. [Looping](https://github.com/ajitagupta/core-java-projects/blob/main/Employee.java)
 3. [Arrays and Strings](https://github.com/ajitagupta/core-java-projects/blob/main/VowelsConsonants.java)
 4. [Object-Oriented Programming](https://github.com/ajitagupta/core-java-projects/blob/main/BankingApp.java)
-5. Constructor
+5. [Constructor](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
 6. [Abstract Classes and Interfaces](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
 7. Exceptions
 8. Multithreading
@@ -134,6 +134,11 @@ After picking an option the instruction is carried out until the loop exist (Opt
 
 Special type of method which is used to initialize/create an object. Rules: 1) constructor and class name should be the same, 2) constructor doesn't contain return type, 3) constructor cannot be abstract, static or final. Types: 1) default, 2) parameterized. A constructor cannot be overridden, but it can be overloaded.
 
+Watch this overloaded constructor in `Student.java`:
+
+![Overloading Constructor](https://i.ibb.co/QDLC8Xs/Student-java.png "Overloading Constructor")
+
+
 
 ## 6. Abstract Classes and Interfaces
 
@@ -143,7 +148,7 @@ Interfaces are used to achieve multiple inheritance in Java - at a time you can 
 
 An example of the two is provided in `Parent.java`. Here is the output:
 
-![Abstract Classes & Interfaces](https://i.ibb.co/T8bszB7/Parent-java.png" "Abstract Classes & Interfaces")
+![Abstract Classes & Interfaces](https://i.ibb.co/T8bszB7/Parent-java.png "Abstract Classes & Interfaces")
 
 
 ## 7. Exceptions
