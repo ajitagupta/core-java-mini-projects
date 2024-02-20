@@ -70,7 +70,6 @@ Here, we create a `Book` class, which asks the user for three inputs: `book name
 
 ![Book Class](https://i.ibb.co/JrTWX3S/Book-Class.png "Book Class")
 
-
 ## 2. Looping
 
 Looping consists of a) decision-making constructs (if, ladder if else, switch) since they make logical decisions (true/false) based on the conditions provided, and b) conditional statements, which are the executable block of code (or branch to a specific code) dependent on certain conditions (while, do_while, for).
@@ -89,7 +88,6 @@ In this class we tackle a common interview question: Counting the number of vowe
 
 ![VowelsConsonants Class](https://i.ibb.co/4dTgNrb/Vowel-Constants-Class.png "VowelsConsonants Class")
 
-
 ## 4. Object-Oriented Programming
 
 The purpose of OOP is to improve code readability and reusability. Data is accessed and controlled. Code is modified and maintained. All this is easier with object-oriented programming.
@@ -104,7 +102,6 @@ Single, multi-level/chained, hierarchical, and hybrid (mix of first 3) inheritan
 <br/>
 
 ![Inheritance](https://i.ibb.co/ChxyfNW/inheritance-drawio.png "Inheritance")
-
 
 ### Polymorphism
 
@@ -129,7 +126,6 @@ After picking an option the instruction is carried out until the loop exist (Opt
 
 ![BankingApp2](https://i.ibb.co/9yr7v2X/Banking-App2.png "BankingApp2")
 
-
 ## 5. Constructor
 
 Special type of method which is used to initialize/create an object. Rules: 1) constructor and class name should be the same, 2) constructor doesn't contain return type, 3) constructor cannot be abstract, static or final. Types: 1) default, 2) parameterized. A constructor cannot be overridden, but it can be overloaded.
@@ -137,8 +133,6 @@ Special type of method which is used to initialize/create an object. Rules: 1) c
 Watch this overloaded constructor in `Student.java`:
 
 ![Overloading Constructor](https://i.ibb.co/QDLC8Xs/Student-java.png "Overloading Constructor")
-
-
 
 ## 6. Abstract Classes and Interfaces
 
@@ -149,7 +143,6 @@ Interfaces are used to achieve multiple inheritance in Java - at a time you can 
 An example of the two is provided in `Parent.java`. Here is the output:
 
 ![Abstract Classes & Interfaces](https://i.ibb.co/T8bszB7/Parent-java.png "Abstract Classes & Interfaces")
-
 
 ## 7. Exceptions
 
