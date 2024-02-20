@@ -142,7 +142,7 @@ Interfaces are used to achieve multiple inheritance in Java - at a time you can 
 
 An example of the two is provided in `Parent.java`. Here is the output:
 
-![Abstract Classes & Interfaces]( "Abstract Classes & Interfaces")
+![Abstract Classes & Interfaces](https://i.ibb.co/T8bszB7/Parent-java.png "Abstract Classes & Interfaces")
 
 ## 7. Exceptions
 
