@@ -132,7 +132,7 @@ Special type of method which is used to initialize/create an object. Rules: 1) c
 
 Watch this overloaded constructor in `Student.java`:
 
-![Overloading Constructor](https://i.ibb.co/QDLC8Xs/Student-java.png "Overloading Constructor")
+![Overloading Constructor](https://i.ibb.co/BCT1w6Z/Student-java.png "Overloading Constructor")
 
 ## 6. Abstract Classes and Interfaces
 
@@ -142,7 +142,7 @@ Interfaces are used to achieve multiple inheritance in Java - at a time you can 
 
 An example of the two is provided in `Parent.java`. Here is the output:
 
-![Abstract Classes & Interfaces](https://i.ibb.co/BCT1w6Z/Student-java.png "Abstract Classes & Interfaces")
+![Abstract Classes & Interfaces]( "Abstract Classes & Interfaces")
 
 ## 7. Exceptions
 
