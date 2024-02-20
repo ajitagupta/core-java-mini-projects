@@ -148,9 +148,20 @@ An example of the two is provided in `Parent.java`. Here is the output:
 
 An exception is an error from which can be recovered. An error is an unavoidable runtime situation from which we can't recover. Exceptions can be checked/compile-time and unchecked/runtime exception.
 
+![Exception Types](https://i.ibb.co/Sw5qxzR/exceptions.jpg "Exception Types")
+
 To recover from exceptions we can make use of `try-catch`, `throw/throws`, or `finally` blocks. We can handle exceptions with multiple catch-blocks. The finally-block code executes at any cost. [See how throw and throws keywords work](https://www.c-sharpcorner.com/UploadFile/3614a6/throw-and-throws-in-java/).
 
+In `ThrowPositiveException.java` we see an example of a user-defined exception:
+
+![User-defined Exception](https://i.ibb.co/b15wRr5/Throw-Positive-Exception.png "User-defined Exception")
+
+
 ## 8. Multithreading
+
+A thread is a process / execution of a program. A thread gets created by extending the `Thread` class or by implementing `Runnable` interface.
+
+If multiple processes are running simultaneously there will be a termination / deadlock. To avoid this one of them must wait. To execute the thread we use the `start` method, which automatically calls `run` method.
 
 ## 9. Collections
 
