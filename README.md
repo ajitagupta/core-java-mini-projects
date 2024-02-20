@@ -56,7 +56,7 @@ The projects in our list are assignments focusing on different skills in **Core 
 4. [Object-Oriented Programming](https://github.com/ajitagupta/core-java-projects/blob/main/BankingApp.java)
 5. [Constructor](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
 6. [Abstract Classes and Interfaces](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
-7. Exceptions
+7. [Exceptions](https://github.com/ajitagupta/core-java-projects/blob/main/ThrowPositiveException)
 8. Multithreading
 9. Collections
 10. Java 8 Features
