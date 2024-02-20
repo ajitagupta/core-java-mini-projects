@@ -148,7 +148,7 @@ An example of the two is provided in `Parent.java`. Here is the output:
 
 An exception is an error from which can be recovered. An error is an unavoidable runtime situation from which we can't recover. Exceptions can be checked/compile-time and unchecked/runtime exception.
 
-To recover from exceptions we can make use of `try-catch`, `throw/throws`, or `finally` blocks. We can handle exceptions with multiple catch-blocks. The finally-block code executes at any cost. `throw` keyword explicity throws an exception from within a method or block. `throws` keyword is used with method signature with your own exception.
+To recover from exceptions we can make use of `try-catch`, `throw/throws`, or `finally` blocks. We can handle exceptions with multiple catch-blocks. The finally-block code executes at any cost. [See how throw and throws keywords work](https://www.c-sharpcorner.com/UploadFile/3614a6/throw-and-throws-in-java/).
 
 ## 8. Multithreading
 
