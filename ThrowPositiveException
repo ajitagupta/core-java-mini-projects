@@ -1,0 +1,28 @@
+package com.feb20;
+
+class PositiveException extends Exception {
+
+	PositiveException(String msg) {
+		System.out.println(msg);
+	}
+
+}
+
+public class ThrowPositiveException {
+
+	void disp(int i) throws PositiveException {
+		if (i < 0) {
+			throw new PositiveException("Number is negative ");
+		} else {
+			System.out.println("number is positive");
+		}
+	}
+
+	public static void main(String[] args) throws PositiveException {
+
+		Test4 t1 = new Test4();
+
+		t1.disp(-6);
+	}
+
+}
