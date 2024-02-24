@@ -163,13 +163,15 @@ A thread is a process / execution of a program. A thread gets created by extendi
 
 To execute the thread we use the `start` method, which automatically calls the Thread class' `run` method.
 
-If multiple processes are running simultaneously there will be interleaving. To avoid this one of them must provide waiting time with the `join` method.
+If multiple processes are running simultaneously there will be interleaving. To avoid this 
+
+a) one of them must provide waiting time with the `join` method.
 
 `RunnableTest.java` is an example of calling the 10's table.
 
 ![RunnableTest.java](https://i.ibb.co/NZXMLmv/Runnable-Test-java.png "RunnableTest.java")
 
-Synchronization locks an object. This is used in booking systems, e.g. seat-booking in railways. There are synchronized methods and synchronized blocks available, each marked with the keyword `synchronized`. We use them for proper execution (with locks) of code.
+b) one can use synchronization. Synchronization locks an object. This is used in booking systems, e.g. seat-booking in railways. There are synchronized methods and synchronized blocks available, each marked with the keyword `synchronized`. We use them for proper execution (with locks) of code.
 
 ## 9. Java 8 Features
 
