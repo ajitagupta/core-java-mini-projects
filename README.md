@@ -159,7 +159,7 @@ In `ThrowPositiveException.java` we see an example of a user-defined exception:
 
 ## 8. Multithreading
 
-A thread is a process / execution of a program. A thread gets created by extending the `Thread` class or by implementing `Runnable` interface.
+A thread is a process / execution of a program. A thread gets created by extending the `Thread` class or by implementing `Runnable` interface, the latter allowing for more flexibility (multiple inheritance).
 
 To execute the thread we use the `start` method, which automatically calls the Thread class' `run` method.
 
@@ -168,7 +168,7 @@ If multiple processes are running simultaneously there will be interleaving. To 
 ### a) JOIN
 one of them must provide waiting time with the `join` method.
 
-`RunnableTest.java` is an example of calling the 10's table.
+`RunnableTest.java` is an example of calling the 10's table from two different threads.
 
 ![RunnableTest.java](https://i.ibb.co/NZXMLmv/Runnable-Test-java.png "RunnableTest.java")
 
