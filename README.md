@@ -161,7 +161,9 @@ In `ThrowPositiveException.java` we see an example of a user-defined exception:
 
 A thread is a process / execution of a program. A thread gets created by extending the `Thread` class or by implementing `Runnable` interface.
 
-If multiple processes are running simultaneously there will be a termination / deadlock. To avoid this one of them must wait. To execute the thread we use the `start` method, which automatically calls the Thread class' `run` method.
+To execute the thread we use the `start` method, which automatically calls the Thread class' `run` method.
+
+If multiple processes are running simultaneously there will be interleaving. To avoid this one of them must provide waiting time with the `join` method.
 
 ## 9. Collections
 
