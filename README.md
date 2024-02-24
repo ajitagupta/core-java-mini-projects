@@ -57,7 +57,7 @@ The projects in our list are assignments focusing on different skills in **Core 
 5. [Constructor](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
 6. [Abstract Classes and Interfaces](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
 7. [Exceptions](https://github.com/ajitagupta/core-java-projects/blob/main/ThrowPositiveException)
-8. Multithreading
+8. [Multithreading](https://github.com/ajitagupta/core-java-projects/blob/main/RunnableTest.java)
 9. Collections
 10. Java 8 Features
 
@@ -164,6 +164,11 @@ A thread is a process / execution of a program. A thread gets created by extendi
 To execute the thread we use the `start` method, which automatically calls the Thread class' `run` method.
 
 If multiple processes are running simultaneously there will be interleaving. To avoid this one of them must provide waiting time with the `join` method.
+
+`RunnableTest.java` is an example.
+
+![RunnableTest.java](https://i.ibb.co/NZXMLmv/Runnable-Test-java.png "RunnableTest.java")
+
 
 ## 9. Collections
 
