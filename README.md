@@ -58,8 +58,8 @@ The projects in our list are assignments focusing on different skills in **Core 
 6. [Abstract Classes and Interfaces](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
 7. [Exceptions](https://github.com/ajitagupta/core-java-projects/blob/main/ThrowPositiveException)
 8. [Multithreading](https://github.com/ajitagupta/core-java-projects/blob/main/RunnableTest.java)
-9. Collections
-10. Java 8 Features
+9. Java 8 Features
+10. Collections
 
 ## 1. Introduction
 In our first two classes we cover the concepts class, data types, Wrapper classes, variable types (static, local, instance), arithmetics, and the Scanner class.
@@ -171,9 +171,10 @@ If multiple processes are running simultaneously there will be interleaving. To 
 
 Synchronization locks an object. This is used in booking systems, e.g. seat-booking in railways. There are synchronized methods and synchronized blocks available, each marked with the keyword `synchronized`. We use them for proper execution (with locks) of code.
 
-## 9. Collections
+## 9. Java 8 Features
 
-## 10. Java 8 Features
+## 10. Collections
+
 
 
 
