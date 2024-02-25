@@ -177,6 +177,25 @@ one can use synchronization. Synchronization locks an object. This is used in bo
 
 ## 9. Java 8 Features
 
+### Lambda Expressions
+Lambda is an anonymous function, i.e. it doens't require a name. In lambda expressions a method is created by reference with operator and body - no function name or object is required.
+
+Lambda expression does not support normal interface.
+
+### Functional Interface
+A functional interface contains only one single abstract method (SAM). It takes as annotation `@FunctionalInterface`.
+
+A functional interface depends on lambda expressions to be executed.
+
+A consumer contains only a single argument. Interface and methods are not required. accept is the in-built method used to call the consumer operation with a parameter.
+
+A biconsumer works similarly, but with the difference that it can take two arguments.
+
+### Stream API
+filter, map, reduce, count, limit, foreach
+### Default Methods
+
+
 ## 10. Collections
 
 
