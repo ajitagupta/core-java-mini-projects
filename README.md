@@ -182,6 +182,8 @@ Lambda is an anonymous function, i.e. it doens't require a name. In lambda expre
 
 Lambda expression does not support normal interface.
 
+Method expressions are readable writing syntax of lambda expressions. There are three types: a) We reference the method using object of the class, b) we use the static method using :: or using c) constructor.
+
 ### Functional Interface
 A functional interface contains only one single abstract method (SAM). It takes as annotation `@FunctionalInterface`.
 
@@ -192,9 +194,13 @@ A consumer contains only a single argument. Interface and methods are not requir
 A biconsumer works similarly, but with the difference that it can take two arguments.
 
 ### Stream API
-filter, map, reduce, count, limit, foreach
-### Default Methods
 
+
+### Stream API
+filter, map, reduce, count, limit, foreach
+
+### Default Methods
+When you mark an interface method as default you can add its body.
 
 ## 10. Collections
 
