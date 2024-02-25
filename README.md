@@ -177,26 +177,28 @@ one can use synchronization. Synchronization locks an object. This is used in bo
 
 ## 9. Java 8 Features
 
+The significant reason for introducing Java 8 was to introduce conciseness in the code. It now has a few concepts of functional programming now, e.g. Lambda expressions.
+
 ### Lambda Expressions
-Lambda is an anonymous function, i.e. it doens't require a name. In lambda expressions a method is created by reference with operator and body - no function name or object is required.
+Lambda is an anonymous function, i.e. it doesn't require a name, return type, access modifier - just the body. In lambda expressions a method is created by reference with operator and body - no function name or object is required.
 
 Lambda expressions do not support normal interface but functional interfaces only.
 
-Method expressions are readable writing syntax of lambda expressions. There are three types: a) We reference the method using object of the class, b) we use the static method with  `:: ` or we use a c) constructor.
+Method expressions are replacements of lambda expressions. They are used to refer method of the functional interface to an existing method, mainly for code reusability. There are three types: a) We reference the method using object of the class, b) we use the static method with `::` or we use a c) constructor.
 
 ### Functional Interface
-A functional interface contains only one single abstract method (SAM). It takes as annotation `@FunctionalInterface`.
+A functional interface contains only one single abstract method (SAM) (but any number of static and default methods). It takes as annotation `@FunctionalInterface` to create it. Important in-built example: `Runnable`.
 
-A functional interface depends on lambda expressions to be executed.
+A functional interface depends on lambda expressions to be executed. It provides reference to lambda expressions (relationship). To call the expression we need a functional interface.
 
-A consumer contains only a single argument. Interface and methods are not required. accept is the in-built method used to call the consumer operation with a parameter.
+A consumer is a predefined function interface containing only a single argument. Interface and methods are not required. accept is the in-built method used to call the consumer operation with a parameter and returns nothing.
 
 A biconsumer works similarly, but with the difference that it can take two arguments.
 
 ### Stream API
 filter, map, reduce, count, limit, foreach
 
-### Default Methods
+### Default and Static Methods
 When you mark an interface method as default you can add its body.
 
 ## 10. Collections
