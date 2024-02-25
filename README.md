@@ -58,7 +58,7 @@ The projects in our list are assignments focusing on different skills in **Core 
 6. [Abstract Classes and Interfaces](https://github.com/ajitagupta/core-java-projects/blob/main/Parent.java)
 7. [Exceptions](https://github.com/ajitagupta/core-java-projects/blob/main/ThrowPositiveException)
 8. [Multithreading](https://github.com/ajitagupta/core-java-projects/blob/main/RunnableTest.java)
-9. Java 8 Features
+9. [Java 8 Features](https://github.com/ajitagupta/core-java-projects/blob/main/Hello.java)
 10. Collections
 
 ## 1. Introduction
