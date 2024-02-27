@@ -213,6 +213,7 @@ Collection framework contains different types of collections such as lists, sets
 
 ![Collections](https://i.ibb.co/fHfz1gq/Collections.png "Collections")
 
+Source: EduBridge
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
