@@ -205,14 +205,13 @@ This playlist is recommended for [further reading](https://www.youtube.com/watch
 
 ## 10. Collections
 
-The Collections framework provides unified architecture for manipulating and representing collections.
+The Collections framework provides unified architecture for manipulating and representing collections. A well designed framework can improve your productivity and provide ease of maintenance.
 
 The Collections framework is contained in java.util package. It can perform following activity: a) Add objects to collection, b) Remove objects from collection, c) Search for an object in collection and d) Retrieve/get object from collection.
 
 Collection framework contains different types of collections such as lists, sets, maps, stacks, queues, etc.
 
-A well designed framework can improve your productivity and provide ease of maintenance.
-
+![Collections](https://i.ibb.co/fHfz1gq/Collections.png "Collections")
 
 
 ## License
