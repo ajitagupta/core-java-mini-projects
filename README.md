@@ -203,6 +203,7 @@ filter, map, reduce, count, limit, foreach
 ### Default and Static Methods
 When you mark an interface method as default you can add its body.  
 
+
 This playlist is recommended for [further reading](https://www.youtube.com/watch?v=oUdENE7ljjw&list=PLyHJZXNdCXsdeusn4OM33415DCMQ6sUKy).
 
 ## 10. Collections
