@@ -201,7 +201,7 @@ Java has no in-built functional interfaces that can take 3 arguments or more.
 filter, map, reduce, count, limit, foreach
 
 ### Default and Static Methods
-When you mark an interface method as default you can add its body.
+When you mark an interface method as default you can add its body.  
 
 This playlist is recommended for [further reading](https://www.youtube.com/watch?v=oUdENE7ljjw&list=PLyHJZXNdCXsdeusn4OM33415DCMQ6sUKy).
 
