@@ -191,9 +191,11 @@ A functional interface contains only one single abstract method (SAM) (but any n
 
 A functional interface depends on lambda expressions to be executed. It provides reference to lambda expressions (relationship). To call the expression we need a functional interface.
 
-A consumer is a predefined function interface containing only a single argument. Interface and methods are not required. accept is the in-built method used to call the consumer operation with a parameter and returns nothing.
+A consumer is a predefined function interface containing only a single argument. Interface and methods are not required. accept is the in-built method used to call the consumer operation with a parameter returning nothing.
 
 A biconsumer works similarly, but with the difference that it can take two arguments.
+
+Java has no in-built functional interfaces that can take 3 arguments or more.
 
 ### Stream API
 filter, map, reduce, count, limit, foreach
