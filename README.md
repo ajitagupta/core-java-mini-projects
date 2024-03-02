@@ -59,7 +59,7 @@ The projects in our list are assignments focusing on different skills in **Core 
 7. [Exceptions](https://github.com/ajitagupta/core-java-projects/blob/main/ThrowPositiveException)
 8. [Multithreading](https://github.com/ajitagupta/core-java-projects/blob/main/RunnableTest.java)
 9. [Java 8 Features](https://github.com/ajitagupta/core-java-projects/blob/main/README.md#9-java-8-features)
-10. Collections
+10. [Collections](https://github.com/ajitagupta/core-java-projects/blob/main/UserDefinedArrayList.java)
 
 ## 1. Introduction
 In our first two classes we cover the concepts class, data types, Wrapper classes, variable types (static, local, instance), arithmetics, and the Scanner class.
@@ -222,6 +222,8 @@ Collection framework contains different types of collections such as lists (unor
 ![Collections](https://i.ibb.co/fHfz1gq/Collections.png "Collections")
 
 Source: EduBridge
+
+We provide a user-based arraylist example inside `UserDefinedArrayList.java`.
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
