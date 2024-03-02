@@ -215,7 +215,7 @@ Example: `DefaultMaths.java`
 
 The Collections framework provides unified architecture for manipulating and representing collections. A well designed framework can improve your productivity and provide ease of maintenance.
 
-The Collections framework is contained in java.util package. It can perform following activity: a) Add objects to collection, b) Remove objects from collection, c) Search for an object in collection and d) Retrieve/get object from collection.
+The Collections framework is contained in `java.util` package. It can perform following activity: a) Add objects to collection, b) Remove objects from collection, c) Search for an object in collection and d) Retrieve/get object from collection.
 
 Collection framework contains different types of collections such as lists, sets, maps, stacks, queues, etc.
 
