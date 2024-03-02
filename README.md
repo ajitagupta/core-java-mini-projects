@@ -198,7 +198,7 @@ A biconsumer works similarly, but with the difference that it can take two argum
 Java has no in-built functional interfaces that can take 3 arguments or more.
 
 ### Stream API
-If you want to process bulk objects of collection then you should go for Streams concept. Streams is a speical iterator class that allows processing collections of objects in a functional manner, e.g. fetch all objects from list whose value is greater than 15.
+If you want to process bulk objects of collection then you should go for Streams concept. Streams is a special iterator class that allows processing collections of objects in a functional manner, e.g. fetch all objects from list whose value is greater than 15.
 
 Multiple lines of code are reduced to one line of code with streams.
 
@@ -208,6 +208,8 @@ Allowed operations: filter (reduces number of objects), map (performs operation 
 When you mark an interface method as default you can add its body.
 
 This playlist is recommended for [further reading](https://www.youtube.com/watch?v=oUdENE7ljjw&list=PLyHJZXNdCXsdeusn4OM33415DCMQ6sUKy).
+
+Example: `DefaultMaths.java`
 
 ## 10. Collections
 
