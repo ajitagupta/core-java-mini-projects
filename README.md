@@ -225,6 +225,9 @@ Source: EduBridge
 
 We provide an input-based arraylist example inside `UserDefinedArrayList.java`.
 
+![UserDefinedArrayList Class](https://i.ibb.co/CB8LMHt/User-Defined-Array-List-java.png "UserDefinedArrayList Class")
+
+
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
 
