@@ -223,7 +223,7 @@ Collection framework contains different types of collections such as lists (unor
 
 Source: EduBridge
 
-We provide a user-based arraylist example inside `UserDefinedArrayList.java`.
+We provide an input-based arraylist example inside `UserDefinedArrayList.java`.
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
