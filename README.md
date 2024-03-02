@@ -217,7 +217,7 @@ The Collections framework provides unified architecture for manipulating and rep
 
 The Collections framework is contained in `java.util` package. It can perform following activity: a) Add objects to collection, b) Remove objects from collection, c) Search for an object in collection and d) Retrieve/get object from collection.
 
-Collection framework contains different types of collections such as lists (unordered collection of data, duplicate data you can store, index starts from 0), sets (unordered collection of data, duplication not allowed), maps (key-value pair, duplication not allowed), stacks, queues, etc.
+Collection framework contains different types of collections such as lists (unordered collection of data, duplicate data allowed, index starts from 0), sets (unordered collection of data, duplication not allowed), maps (key-value pair, duplication not allowed), stacks, queues, etc.
 
 ![Collections](https://i.ibb.co/fHfz1gq/Collections.png "Collections")
 
