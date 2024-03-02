@@ -59,7 +59,7 @@ The projects in our list are assignments focusing on different skills in **Core 
 7. [Exceptions](https://github.com/ajitagupta/core-java-projects/blob/main/ThrowPositiveException)
 8. [Multithreading](https://github.com/ajitagupta/core-java-projects/blob/main/RunnableTest.java)
 9. [Java 8 Features](https://github.com/ajitagupta/core-java-projects/blob/main/README.md#9-java-8-features)
-10. [Collections](https://github.com/ajitagupta/core-java-projects/blob/main/UserDefinedArrayList.java)
+10. [Collections](https://github.com/ajitagupta/core-java-projects/blob/main/EmployeeCRUDAPI.java)
 
 ## 1. Introduction
 In our first two classes we cover the concepts class, data types, Wrapper classes, variable types (static, local, instance), arithmetics, and the Scanner class.
@@ -114,7 +114,7 @@ Wrapping and binding of data in single unit. Variables declared in class with `p
 
 Hiding implementation details of the code and exposing only necessary information to the user (example: ATM machine). Declared using `abstract` keyword. If method is abstract class must also be abstract. Class can't be instantiated, only extended in a child class.
 
-### Larger Project
+### Larger Project: Banking System
 
 Now let's have a look at a menu-driven banking application: `BankingApp.java`.
 
@@ -227,6 +227,17 @@ We provide an input-based arraylist example inside `UserDefinedArrayList.java`.
 
 ![UserDefinedArrayList Class](https://i.ibb.co/CB8LMHt/User-Defined-Array-List-java.png "UserDefinedArrayList Class")
 
+### Larger Project: Employee CRUD API
+
+Now let's for a change have a look at a menu-driven Employee CRUD application: `EmployeeCRUDAPI.java`.
+
+The user can add, delete, search for and display employee information. First, a menu appears:
+
+![EmployeeCRUD1](https://i.ibb.co/J3HVSY4/Employee-CRUD1.png "EmployeeCRUD1")
+
+After picking an option the instruction is carried out (Option 1, 2, 3 or 4):
+
+![EmployeeCRUD2](https://i.ibb.co/RQ93jcs/Employee-CRUD2.png "EmployeeCRUD2")
 
 ## License
 ![Public Domain](https://i.ibb.co/74t3hCb/public-domain.png "Public Domain")
