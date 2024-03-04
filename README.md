@@ -219,6 +219,8 @@ The Collections framework is contained in `java.util` package. It can perform fo
 
 Collection framework contains different types of collections such as lists (unordered collection of data, duplicate data allowed, index starts from 0), sets (unordered collection of data, duplication not allowed), maps (key-value pair, duplication not allowed), stacks, queues, etc.
 
+In an Arraylist the memory is dynamically located contiguously at the end. In a LinkedList your element can be added anywhere in the list, specified by the index.
+
 ![Collections](https://i.ibb.co/fHfz1gq/Collections.png "Collections")
 
 Source: EduBridge
@@ -235,7 +237,7 @@ The user can add, delete, search for and display employee information. First, a 
 
 ![EmployeeCRUD1](https://i.ibb.co/J3HVSY4/Employee-CRUD1.png "EmployeeCRUD1")
 
-After picking an option the instruction is carried out (Option 1, 2, 3 or 4):
+After picking an option the instruction is carried out (Option 1, 2, 3 or 4) until the loop exits (user input = 0):
 
 ![EmployeeCRUD2](https://i.ibb.co/RQ93jcs/Employee-CRUD2.png "EmployeeCRUD2")
 
