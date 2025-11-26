@@ -9,6 +9,34 @@ class BankDetails {
 	private long balance;
 	Scanner sc = new Scanner(System.in);
 
+	// method to get loan(Made By Mainak Das)
+	public void getLoanFromBank(){
+		long amt;
+		System.out.print("How much loan do you wanted to take : ");
+		amt = sc.nextLong();
+		if (this.balance<150000 && amt>1000000){
+			System.out.println("Since, you are not eligible for loan of amount : "+amt);
+		}
+		else if(amt>500000 && this.balance<30000){
+			System.out.println("Since, you are not eligible for loan of amount : "+amt);
+		}
+		else{
+			System.out.println("You are eligible to take loan.... \nEnter Your Credentials Below ---- ");
+			System.out.println("Enter Your Loan Type : ");
+			String type=sc.next(); 
+			System.out.println("Enter Your Full Name  :");
+			String name=sc.nextLine();
+			System.out.println("Enter Your Acount No : ");
+			String accno=sc.next();
+			System.out.println("Your Loan Imformations Are Given Below : ");
+			
+			System.out.println("-------- Loan Type : "+type+" -------- \nFull Name : "+name+"\nAccount NO. : "+accno+"\nLoan Amount : "+amt);
+			System.out.println("## Verified By Your Bank ##");
+			System.out.println("Congratulations..... Your Loan Request Have Successfully Granted.");
+			System.out.println("Thanks For Using Our App.....");
+		}
+	}
+
 	// method to open new account
 	public void openAccount() {
 		System.out.print("Enter Account No: ");
